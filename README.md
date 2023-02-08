@@ -24,7 +24,7 @@
 
 ## Screenshots ou gif
 
-![Projeto-Redes Sociais](/)
+![Projeto-Redes Sociais](https://github.com/emmanuelmarcosdeoliveira/projeto-redes-sociais/blob/main/projeto%20redes%20sociais.gif)
 
 ## Demonstração
 
